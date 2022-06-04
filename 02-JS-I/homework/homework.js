@@ -33,7 +33,6 @@ function devolverString(str) {
 
 }
 
-devolverString('Henry')
 
 function suma(x, y) {
   // "x" e "y" son números
@@ -43,8 +42,6 @@ function suma(x, y) {
   return x + y;
   
 }
-
-suma(8,9)
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
